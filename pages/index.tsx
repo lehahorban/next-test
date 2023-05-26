@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <header>
       <h1>Hello</h1>
-      <h2>Привіт</h2>
     </header>
   );
 }
