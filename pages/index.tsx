@@ -8,6 +8,8 @@ export default function Home() {
     <>
       <p>Як справи</p>
       <h1>Гілка маін</h1>
+      <h1>Hello, World!</h1>
+      <h2>Привіт</h2>
     </>
   );
 }
