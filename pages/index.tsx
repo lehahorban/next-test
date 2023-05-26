@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <h1>не правильний код</h1>
-      <ul className="hello-name-kjjk">
+      <h1 className="ssdsds">не правильний код</h1>
+      <ul className="hello-name-kjkjkjk">
         <li>Привіт</li>
         <li>Привіт</li>
         <li>Привіт</li>
