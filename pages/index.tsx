@@ -11,6 +11,7 @@ export default function Home() {
         <li>Привіт</li>
         <li>Привіт</li>
         <li>Привіт</li>
+        <li>Ще привіт</li>
       </ul>
     </>
   );
