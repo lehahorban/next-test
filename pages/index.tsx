@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <>
       <h1>не правильний код</h1>
+
       <ul>
         <li>Привіт</li>
         <li>Привіт</li>
