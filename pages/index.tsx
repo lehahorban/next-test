@@ -10,8 +10,12 @@ export default function Home() {
       <ul className="hello-name-kjkjkjk">
         <li>Привіт</li>
         <li>Привіт</li>
+
         <li>Привіт</li>
         <li>Здоров</li>
+
+        <li style={{ color: "red" }}>Привіт</li>
+        <li style={{ color: "green", fontSize: "25px" }}>Привіт</li>
       </ul>
     </>
   );
