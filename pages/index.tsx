@@ -1,22 +1,8 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
-
-const inter = Inter({ subsets: ["latin"] });
-
+import Slider from "@/components/Slider";
 export default function Home() {
   return (
-    <>
-      <h1 className="ssdsds">не правильний код</h1>
-      <ul className="hello-name-kjkjkjk">
-        <li>Привіт</li>
-        <li>Привіт</li>
-
-        <li>Привіт</li>
-        <li>Здоров</li>
-
-        <li style={{ color: "red" }}>Привіт</li>
-        <li style={{ color: "green", fontSize: "25px" }}>Привіт</li>
-      </ul>
-    </>
+    <div className="sm:px-6 md:px-8 lg:px:8 xl:px-10 2xl:px-10 mx-auto">
+      <Slider />
+    </div>
   );
 }
